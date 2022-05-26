@@ -33,8 +33,8 @@ ForEach ($thing in $things) {
 
 #### This is an image
 One
-![img](../_images/ZiClJf-1920w.jpeg)
+![img](../images/ZiClJf-1920w.jpeg)
 Two
-![img](_images/ZiClJf-1920w.jpeg)
+![img](images/ZiClJf-1920w.jpeg)
 Three
-![img](/_images/ZiClJf-1920w.jpeg)
+![img](/images/ZiClJf-1920w.jpeg)
