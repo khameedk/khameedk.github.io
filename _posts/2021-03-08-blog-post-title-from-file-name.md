@@ -38,3 +38,11 @@ Two
 ![img](images/ZiClJf-1920w.jpeg)
 Three
 ![img](/images/ZiClJf-1920w.jpeg)
+
+#####
+Top-level directory
+One
+![img](./ZiClJf-1920w.jpeg)
+Two
+![img](ZiClJf-1920w.jpeg)
+
