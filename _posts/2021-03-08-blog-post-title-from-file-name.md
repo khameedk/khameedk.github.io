@@ -32,4 +32,4 @@ ForEach ($thing in $things) {
 ```
 
 #### This is an image
-![img](_images/ZiClJf-1920w.jpeg)
+![img](../_images/ZiClJf-1920w.jpeg)
